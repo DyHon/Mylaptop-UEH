@@ -1,0 +1,2 @@
+(this["webpackJsonpclayma-store"]=this["webpackJsonpclayma-store"]||[]).push([[20],{159:function(e,a,t){"use strict";t.r(a),t.d(a,"default",(function(){return o}));var n=t(0),s=t.n(n);function o(){return s.a.createElement("div",{className:"hero-section-homepage"},s.a.createElement("div",{className:"hero-section-text"},s.a.createElement("h1",{className:"mb-4"}," ",s.a.createElement("span",null,"MyLaptop")," store"),s.a.createElement("a",{href:"/shop",className:"shop-now-button"},"Shop now")))}}}]);
+//# sourceMappingURL=20.22cc7f9c.chunk.js.map

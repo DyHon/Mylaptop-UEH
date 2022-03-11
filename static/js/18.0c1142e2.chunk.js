@@ -1,0 +1,2 @@
+(this["webpackJsonpclayma-store"]=this["webpackJsonpclayma-store"]||[]).push([[18],{65:function(e,t,a){"use strict";a.r(t),a.d(t,"default",(function(){return s}));var n=a(0),c=a.n(n);a(66);function s(e){return c.a.createElement("div",{className:"hero-section"},c.a.createElement("div",{className:"hero-section-text"},c.a.createElement("h1",null,c.a.createElement("span",null,"MyLaptop")," store")))}},66:function(e,t,a){}}]);
+//# sourceMappingURL=18.0c1142e2.chunk.js.map
