@@ -1,0 +1,499 @@
+[
+  {
+    "productname": "HP Elitebook 2170p",
+    "id": "2ve68tenY9TGZMPPxppP",
+    "price": 5800000.0,
+    "color": "X PINK",
+    "category": "women",
+    "discount": 8,
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "New",
+    "product_stock": 30,
+    "product_selected_qty": 1,
+    "product_image": "HP 2170p.jpg",
+    "brand": "HP",
+
+    "product_details": [
+      "Màn hình: 11.6 inch, HD (1366×768)",
+      "CPU: Intel® Core™ i7-3667U Processor 4M Cache, up to 3.20 GHz",
+      "RAM: 4 GB RAM DDR3 1600MHz (2 slots up max 16GB)",
+      "Ổ cứng: 128 GB SSD",
+      "Đồ họa: Intel® HD Graphics 4000",
+      "Trọng lượng: 1.4 kg",
+      "Xuất xứ: Nhập khẩu từ Mỹ, Like New 99%"
+    ]
+  },
+  {
+    "productname": "HP EliteBook 820 G1",
+    "id": "pi2d0PSaDaWORX8CVsSn",
+    "price": 7300000,
+    "discount": 21,
+    "color": "red",
+    "category": "women",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "New",
+    "product_stock": 50,
+    "product_image": "HP EliteBook 820 G1.jpg",
+    "brand": "HP",
+
+    "product_details": [
+      "Màn hình: 12.5 inch, HD (1366×768)",
+      "CPU: Intel® Core™ i7-4600U Processor 4M Cache, up to 3.30 GHz",
+      "RAM: 4 GB RAM DDR3 1600MHz",
+      "Ổ cứng: 128 GB SSD",
+      "Đồ họa: Intel® HD Graphics 4400",
+      "Trọng lượng: 1.3 kg",
+      "Xuất xứ: Nhập khẩu từ Mỹ, Like New 98%"
+    ]
+  },
+  {
+    "productname": "Dell Precision 3520",
+    "id": "Bdd75giHSDGkx8WLTv9C",
+    "price": 18990000.0,
+    "discount": 12,
+    "color": "LILAC",
+    "category": "men",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 40,
+    "product_selected_qty": 1,
+    "product_image": "Dell Precision 3520.jpg",
+    "brand": "DELL",
+
+    "product_details": [
+      "Màn hình: 15.6 inch, Full HD (1920×1080)",
+      "CPU: Core™ i7-7820HQ Processor 6M Cache, up to 3.80 GHz",
+      "RAM: 8 GB DDR4 2400 MHz",
+      "Ổ cứng: 256 GB SSD",
+      "Đồ họa: NVIDIA Quadro M620 2GB",
+      "Trọng lượng: 2.3 kg",
+      "Xuất xứ: Nhập khẩu từ Mỹ, Like New 99%"
+    ]
+  },
+  {
+    "productname": "HP Elitebook 820 G4",
+    "id": "1Ry57rlbWqqVGrgdngAO",
+    "price": 11500000.0,
+    "discount": 50,
+    "color": "red",
+    "category": "women",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 15,
+    "product_selected_qty": 1,
+    "product_image": "HP Elitebook 820 G4.jpg",
+    "brand": "HP",
+
+    "product_details": [
+      "Màn hình: 12.5 inch, HD (1366×768)",
+      "CPU: Intel® Core™ i5-7300U Processor 3M Cache, up to 3.50 GHz",
+      "RAM: 8GB DDR4 SDRAM bus 2400MHz",
+      "Ổ cứng: 256 GB SSD",
+      "Đồ họa: Intel® HD Graphics 620",
+      "Trọng lượng: 1.26 kg",
+      "Xuất xứ: Nhập khẩu từ Mỹ, Like New 99%"
+    ]
+  },
+
+  {
+    "productname": "Lenovo ThinkPad T460",
+    "id": "EmE5N65NxF3hjWWn5pDH",
+    "price": 11500000.0,
+    "discount": 46,
+    "color": "Navy",
+    "category": "kids",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 0,
+    "product_selected_qty": 1,
+    "product_image": "Lenovo ThinkPad T460.png",
+    "brand": "Lenovo",
+
+    "product_details": [
+      "Màn hình: 14 inch, Full HD (1920×1080)",
+      "CPU: Core™ i5-6200U Processor 3M Cache, up to 2.80 GHz",
+      "RAM: 8 GB DDR3L 1600 MHz",
+      "Ổ cứng: 256 GB SSD",
+      "Đồ họa: Intel® HD Graphics 520",
+      "Trọng lượng: 1.7 kg",
+      "Xuất xứ: Nhập khẩu từ Mỹ, Like New 99%"
+    ]
+  },
+  {
+    "productname": "Dell Precision 3540",
+    "id": "XrWlzKlPxZsJHVs1CYwB",
+    "price": 18500000.0,
+    "discount": 30,
+    "color": "Navy",
+    "category": "men",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "New",
+    "product_stock": 90,
+    "product_selected_qty": 1,
+    "product_image": "Dell Precision 3540.jpg",
+    "brand": "DELL",
+
+    "product_details": [
+      "Màn hình: 15.6 inch, Full HD (1920×1080)",
+      "CPU: Intel® Core™ i5-8365U Processor 6M Cache, up to 4.10 GHz",
+      "RAM: 8 GB DDR4 2400 MHz",
+      "Ổ cứng: 256 GB NVMe SSD",
+      "Đồ họa: AMD Radeon Pro WX 2100 2GB",
+      "Trọng lượng: 1.83 kg",
+      "Xuất xứ: Nhập khẩu từ Mỹ, Like New 99%"
+    ]
+  },
+
+  {
+    "productname": "Dell Latitude 5400",
+    "id": "i662y8B2qA9kMtxYLGVL",
+    "price": 17900000,
+    "discount": 20,
+    "color": "MID GREY MARLE 1",
+    "category": "men",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "New",
+    "product_stock": 250,
+    "product_selected_qty": 1,
+    "product_image": "Dell Latitude 5400.jpg",
+    "brand": "DELL",
+
+    "product_details": [
+      "Core i5-8365U",
+      "RAM 8GB",
+      "SSD 256GB",
+      "Intel® UHD Graphics 620, 14” FHD"
+    ]
+  },
+  {
+    "productname": "Dell XPS 9575",
+    "id": "ziu7CBnSnIE45WVqfuAp",
+    "price": 29000000.0,
+    "discount": 25,
+    "color": "TAUPE",
+    "category": "men",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 45,
+    "product_selected_qty": 1,
+    "product_image": "Dell XPS 9575.jpg",
+    "brand": "DELL",
+
+    "product_details": [
+      "Màn hình: 15.6 inch, Full HD Touch (1920×1080)",
+      "CPU: Core™ i7-8705G Processor 8M Cache, up to 4.10 GHz",
+      "RAM: 8 GB DDR4 2400 MHz",
+      "Ổ cứng: 256 GB SSD",
+      "Đồ họa: Radeon(TM) RX Vega M GL 4GB",
+      "Trọng lượng: 2 kg",
+      "Xuất xứ: Nhập khẩu từ Mỹ, Like new 99%"
+    ]
+  },
+
+  {
+    "productname": "HP Elitebook 840",
+    "id": "cU6MpeQDfinCxyNkQAP0",
+    "price": 18500000.0,
+    "color": "CAMEL",
+    "category": "women",
+    "discount": 30,
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 25,
+    "product_selected_qty": 1,
+    "product_image": "HP Elitebook 840.jpg",
+    "brand": "HP",
+
+    "product_details": [
+      "Màn hình: 14 inch, Full HD (1920×1080)",
+      "CPU: Core™ i5-1135G7 Processor 8M Cache, up to 4.20 GHz",
+      "RAM: 8 GB DDR4 3200MHz",
+      "Ổ cứng: 256 GB PCle NVMe SSD",
+      "Đồ họa: Intel Iris Xe Graphics",
+      "Trọng lượng: 1.15 kg",
+      "Xuất xứ: Nhập khẩu từ Mỹ, New 100%"
+    ]
+  },
+  {
+    "productname": "HP EliteBook 840 G5",
+    "id": "xCS1eKOL0U5aExHwWBvp",
+    "price": 17500000.0,
+    "discount": 9,
+    "color": "brown",
+    "category": "women",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "New",
+    "product_stock": 250,
+    "product_selected_qty": 1,
+    "product_image": "HP EliteBook 840 G5.jpg",
+    "brand": "HP",
+
+    "product_details": [
+      "Màn hình: 14.0 inch, Full HD (1920×1080)",
+      "CPU: Intel® Core™ i5-8350U Processor 6M Cache, up to 3.60 GHz",
+      "RAM: 8GB DDR4 bus 2400MHz",
+      "Ổ cứng: 256 GB SSD PCIe® NVMe™ M.2 SSD",
+      "Đồ họa: Intel® HD Graphics 620",
+      "Xuất xứ: Nhập khẩu từ Mỹ, Like New 99%"
+    ]
+  },
+
+  {
+    "productname": "HP EliteBook 8440p",
+    "id": "Bc3twiMjGk3s9uBAknRk",
+    "price": 4500000.0,
+    "discount": 15,
+    "color": "Tan/Multi",
+    "category": "women",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "New",
+    "product_stock": 10,
+    "product_selected_qty": 1,
+    "product_image": "HP EliteBook 8440p.jpg",
+    "brand": "HP",
+
+    "product_details": [
+      "Màn hình: 14 inch, HD AntiGlare chóng chói",
+      "CPU: Intel® Core™ i5-520M Processor 3M Cache, 2.40 GHz",
+      "RAM: 4 GB DDR3 bus 1333MHz (2 slot up max to 8GB)",
+      "Ổ cứng: 120 GB SSD",
+      "Đồ họa: Intel® HD Graphics Onboard",
+      "Trọng lượng: 2.36 kg"
+    ]
+  },
+  {
+    "productname": "Dell Latitude 7400",
+    "id": "wcZxUY5tCnZ2xjdxptyv",
+    "price": 23500000.0,
+    "discount": 4,
+    "color": "blue",
+    "category": "men",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 0,
+    "product_selected_qty": 1,
+    "product_image": "Dell Latitude 7400.jpg",
+    "brand": "DELL",
+
+    "product_details": [
+      "Màn hình: 14 inch, Full HD (1920×1080)",
+      "CPU: Core™i5-8365U Processor 6M Cache, up to 4.10 GHz",
+      "RAM: 16 GB DDR4 2400 MHz",
+      "Ổ cứng: 256 GB SSD",
+      "Đồ họa: Intel UHD Graphics 620",
+      "Trọng lượng: 1.35 kg",
+      "Xuất xứ: Nhập khẩu từ Mỹ, Like New 99%"
+    ]
+  },
+  {
+    "productname": "HP EliteBook 8540w",
+    "id": "TxJZS59SbUyWpXHHWAyG",
+    "price": 6500000.0,
+    "discount": 10,
+    "color": "red",
+    "category": "women",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 0,
+    "product_selected_qty": 1,
+    "product_image": "HP EliteBook 8540w.jpg",
+    "brand": "HP",
+
+    "product_details": [
+      "Màn hình: 15.6 inch, Full HD (1920×1080)",
+      "CPU: Core™i7-740QM Processor 6M cache, 1.73 GHz",
+      "RAM: 4 GB DDR3 1333 MHz",
+      "Ổ cứng: 128 GB SSD",
+      "Đồ họa: NVIDIA Quadro FX 880M 1GB",
+      "Trọng lượng: 2.95 kg",
+      "Xuất xứ: Nhập khẩu từ Mỹ, Like New 98%"
+    ]
+  },
+  {
+    "productname": "HP x360 1040 G6",
+    "id": "24nC01SAhuq1v0CAfCS1",
+    "price": 42000000.0,
+    "discount": 6,
+    "color": "Black",
+    "category": "women",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "New",
+    "product_stock": 0,
+    "product_selected_qty": 1,
+    "product_image": "HP x360 1040 G6.jpg",
+    "brand": "HP",
+
+    "product_details": [
+      "Màn hình: 13.3 inch, Full HD Touch (1920×1080)",
+      "CPU: Core™ i5-8265U Processor 6M Cache, up to 3.90 GHz",
+      "RAM: 8 GB DDR4 2666 MHz",
+      "Ổ cứng: 256 GB SSD",
+      "Đồ họa: Intel UHD Graphics 620",
+      "Trọng lượng: 1.35 kg",
+      "Xuất xứ: Nhập khẩu từ Mỹ, New 100%"
+    ]
+  },
+  {
+    "productname": "HP x360 1040 G5",
+    "id": "yc67LV4bfHfFtjZ68Dev",
+    "price": 40000000.0,
+    "discount": 50,
+    "color": "red",
+    "category": "women",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "New",
+    "product_stock": 5,
+    "product_selected_qty": 1,
+    "product_image": "HP x360 1040 G5.jpg",
+    "brand": "HP",
+
+    "product_details": [
+      "Màn hình: 13.3 inch, Full HD Touch (1920×1080)",
+      "CPU: Core™ i5-8250U Processor 6M Cache. up to 3.40 GHz",
+      "RAM: 8 GB DDR4 2400 MHz",
+      "Ổ cứng: 256 GB SSD",
+      "Đồ họa: Intel UHD Graphics 620",
+      "Trọng lượng: 1.35 kg",
+      "Xuất xứ: Nhập khẩu từ Mỹ, New 100%"
+    ]
+  },
+  {
+    "productname": "HP Probook 640 G2",
+    "id": "U65p8q2zqsahGWrDRCn2",
+    "price": 7800000.0,
+    "discount": 19,
+    "color": "Camouflage",
+    "category": "women",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 250,
+    "product_selected_qty": 1,
+    "product_image": "HP Probook 640 G2.webp",
+    "brand": "HP",
+
+    "product_details": [
+      "Màn hình: 14 inch, HD (1366×768)",
+      "CPU: Intel® Core™ i5-6200U Processor 3M Cache, up to 2.80 GHz",
+      "RAM: 8 GB RAM DDR4 2133MHz",
+      "Ổ cứng: 256 GB SSD",
+      "Đồ họa: Intel® HD Graphics 520",
+      "Trọng lượng: 1.95 kg",
+      "Xuất xứ: Nhập khẩu từ Mỹ, Like New 98%"
+    ]
+  },
+
+  {
+    "productname": "Lenovo Thinkpad X270",
+    "id": "hkF1VzrgK68zB9NIZ0Pv",
+    "price": 10000000.0,
+    "discount": 26,
+    "color": "Navy",
+    "category": "kids",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "New",
+    "product_stock": 60,
+    "product_selected_qty": 1,
+    "product_image": "Lenovo Thinkpad X270.jpg",
+    "brand": "Lenovo",
+
+    "product_details": [
+      "Màn hình: 12.5 inch, HD (1366×768)",
+      "CPU: Core™ i5-6200U Processor 3M Cache, up to 2.80 GHz",
+      "RAM: 8 GB DDR4 2133 MHz",
+      "Ổ cứng: 128 GB SSD",
+      "Đồ họa: Intel® HD Graphics 520",
+      "Trọng lượng: 1.2 kg",
+      "Xuất xứ: Nhập khẩu từ Mỹ, Like New 98%"
+    ]
+  },
+  {
+    "productname": "Lenovo ThinkPad X390",
+    "id": "QU2fod19IXXw25P3KjkA",
+    "price": 21000000.0,
+    "discount": 26,
+    "color": "Navy",
+    "category": "kids",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "New",
+    "product_stock": 190,
+    "product_selected_qty": 1,
+    "product_image": "Lenovo ThinkPad X390.jpg",
+    "brand": "Lenovo",
+
+    "product_details": [
+      "Màn hình: 13.3 inch, Full HD (1920×1080)",
+      "CPU: Core™ i5-8265U Processor 6M Cache, up to 3.90 GHz",
+      "RAM: 8 GB DDR4 2400 MHz",
+      "Ổ cứng: 256 GB SSD",
+      "Đồ họa: Intel® UHD Graphics 620",
+      "Trọng lượng: 1.4 kg",
+      "Xuất xứ: Nhập khẩu từ Mỹ, New 100%"
+    ]
+  },
+  {
+    "productname": "Lenovo ThinkPad X230",
+    "id": "Ve0d9CqDebfA3mfsZyIe",
+    "price": 5200000.0,
+    "discount": 13,
+    "color": "Rust",
+    "category": "kids",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "Trending",
+    "product_stock": 23,
+    "product_selected_qty": 1,
+    "product_image": "Lenovo ThinkPad X230.jpg",
+    "brand": "Lenovo",
+
+    "product_details": [
+      "CPU: Core™ i5-3320M Processor 3M Cache, up to 3.30 GHz",
+      "RAM: 4 GB DDR3 1600MHz",
+      "Ổ cứng: 128 GB SSD",
+      "Đồ họa: Intel® HD Graphics 4000",
+      "Trọng lượng: 1.4 kg",
+      "Xuất xứ: Nhập khẩu từ Mỹ, Like New 98%"
+    ]
+  },
+  {
+    "productname": "Lenovo Ideapad Flex 4 1470",
+    "id": "CW2uRnTh7euj6X4DURAP",
+    "price": 8500000.0,
+    "discount": 43,
+    "color": "white & blue",
+    "category": "kids",
+    "size": ["small", "medium", "large", "xlarge"],
+    "selected_size": "small",
+    "product_status": "New",
+    "product_stock": 13,
+    "product_selected_qty": 1,
+    "product_image": "Lenovo Ideapad Flex 4 1470.jpg",
+    "brand": "Lenovo",
+
+    "product_details": [
+      "Màn hình: 14 inch, Full HD Touch (1920×1080)",
+      "CPU: Intel® Core™ i5-6200U Processor 3M Cache, up to 2.80 GHz",
+      "RAM: 8 GB RAM DDR3 1600MHz",
+      "Ổ cứng: 128 GB SSD",
+      "Đồ họa: Intel® HD Graphics 520",
+      "Trọng lượng: 1.9 kg"
+    ]
+  }
+]
