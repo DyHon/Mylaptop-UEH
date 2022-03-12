@@ -1,0 +1,2 @@
+(this["webpackJsonpmylaptop-store"]=this["webpackJsonpmylaptop-store"]||[]).push([[20],{158:function(e,t,a){"use strict";a.r(t),a.d(t,"default",(function(){return o}));var n=a(0),s=a.n(n);function o(){return s.a.createElement("div",{className:"hero-section-homepage"},s.a.createElement("div",{className:"hero-section-text"},s.a.createElement("h1",{className:"mb-4"}," ",s.a.createElement("span",null,"MyLaptop")," store"),s.a.createElement("a",{href:"/shop",className:"shop-now-button"},"Shop now")))}}}]);
+//# sourceMappingURL=20.814bed71.chunk.js.map

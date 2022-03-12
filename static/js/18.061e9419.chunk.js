@@ -1,0 +1,2 @@
+(this["webpackJsonpmylaptop-store"]=this["webpackJsonpmylaptop-store"]||[]).push([[18],{65:function(e,t,n){"use strict";n.r(t),n.d(t,"default",(function(){return o}));var a=n(0),s=n.n(a);n(66);function o(e){return s.a.createElement("div",{className:"hero-section"},s.a.createElement("div",{className:"hero-section-text"},s.a.createElement("h1",null,s.a.createElement("span",null,"MyLaptop")," store")))}},66:function(e,t,n){}}]);
+//# sourceMappingURL=18.061e9419.chunk.js.map
