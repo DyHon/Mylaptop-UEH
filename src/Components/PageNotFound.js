@@ -1,5 +1,4 @@
 import React from "react";
-import PageNotFoundImage from "../assets/images/error-1349562_1280.png";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Container } from "react-bootstrap";
 
@@ -19,7 +18,6 @@ export default function PageNotFound() {
       <Container>
         <div className="container-page-not_found">
         
-          <img src={PageNotFoundImage} alt="NotFound" />
         </div>
       </Container>
       <Footer/>

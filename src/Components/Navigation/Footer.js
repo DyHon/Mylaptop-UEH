@@ -8,11 +8,10 @@ import {
   faClock,
 } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import AmericanexpressCardIcon from '../../assets/images/cards/americanexpress.png';
-import CirrusCardIcon from '../../assets/images/cards/cirrus.png';
-import MaterCardCardIcon from '../../assets/images/cards/mastercard.png';
-import PaypalCardIcon from '../../assets/images/cards/paypal.png';
-import VisaCardIcon from '../../assets/images/cards/visa.png';
+import CirrusCardIcon from '../../assets/images/cards/zalopay2.png';
+import MaterCardCardIcon from '../../assets/images/cards/momo1.webp';
+import PaypalCardIcon from '../../assets/images/cards/vnpay.png';
+import VisaCardIcon from '../../assets/images/cards/acb2.jpg';
 
 export default function Footer() {
   const date = new Date();
@@ -32,14 +31,6 @@ export default function Footer() {
                 <ul>
                   <li>
                     <a href="/">
-                      <img
-                        src={AmericanexpressCardIcon}
-                        alt="americaExpress"
-                      />
-                    </a>
-                  </li>
-                  <li>
-                    <a href="/">
                       <img src={CirrusCardIcon}
                        alt="CirrusCardIcon" />
                     </a>
@@ -47,6 +38,8 @@ export default function Footer() {
                   <li>
                     <a href="/">
                       <img
+                        width="40px"
+                        height="40px"
                         src={MaterCardCardIcon}
                         alt="MaterCardCardIcon"
                       />
@@ -74,7 +67,7 @@ export default function Footer() {
               </h5>
               <h5>
                 <FontAwesomeIcon icon={faPhone} className="footer-icons" />{" "}
-                +2111 555 555 54
+                +1800 1060
               </h5>
               <h5>
                 <FontAwesomeIcon icon={faGlobe} className="footer-icons" />{" "}

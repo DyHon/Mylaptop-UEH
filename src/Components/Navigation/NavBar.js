@@ -9,6 +9,7 @@ import "../../styles/Navbar.scss";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { GlobalCartContext } from "../../context/CartContext";
 import { Link } from "react-router-dom";
+import logoIcon from "../../assets/images/logo.png";
 
 export default function NavBar() {
   const { myShoppingCart } = useContext(GlobalCartContext);
@@ -37,6 +38,16 @@ export default function NavBar() {
             </div>
 
             <ul className="navigation-list">
+              <li>
+                <a href="/">
+                  <img
+                    width="70px"
+                    height="50px"
+                    src={logoIcon}
+                    alt="americaExpress"
+                  />
+                </a>
+              </li>
               <li>
                 <Link to="/">
                 Home

@@ -1,7 +1,6 @@
 import React from "react";
 import "../../styles/TopBanner.scss";
 import { faPhone, faEnvelope } from "@fortawesome/free-solid-svg-icons";
-
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { Link } from "react-router-dom";
 export default function TopBanner() {
@@ -10,7 +9,7 @@ export default function TopBanner() {
       <div className="row">
         <div className="col-lg-3">
           <FontAwesomeIcon icon={faPhone} className="top-banner-icon" />
-          +0199999999
+          +1800 1060
         </div>
         <div className="col-lg-3">
           <FontAwesomeIcon icon={faEnvelope} className="top-banner-icon" />
